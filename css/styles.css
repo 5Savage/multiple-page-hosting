@@ -15,7 +15,8 @@ p{
     max-width: 100%;
     border-radius: 40px;
     display: block;
-    margin: 30px auto;
+    margin: 20px auto;
+    width: 500px;
 }
 footer{
     text-align: center;
