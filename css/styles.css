@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+    
+}
+.container{
+    width: 600px;
+    margin-left: 20px;
+}
+img.image{
+    max-width: 500px;
+ 
+}
